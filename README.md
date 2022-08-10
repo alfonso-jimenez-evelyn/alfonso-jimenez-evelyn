@@ -22,8 +22,8 @@ Hi, my name is Alfonso and I'm Junior Blockchain developer. I enjoy learning abo
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" width="40" height="40"/> </a>
 </div>
 
-
+<br />
 
 <div align="center">
-<img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/luffy-gif-10.gif" alt="Luffy Logo" width="640" height="360" />
+<img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/luffy-gif-10.gif" alt="Luffy Logo" width="600" height="320" />
 </div>
