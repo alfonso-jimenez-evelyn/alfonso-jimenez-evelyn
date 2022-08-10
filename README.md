@@ -8,6 +8,7 @@ Hi, my name is Alfonso and I'm Junior Blockchain developer. I enjoy learning abo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsojimenez09&count_private=true)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsojimenez09)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <div align="center">
 <img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/luffy-gif-10.gif" alt="Luffy Logo" width="640" height="360" />
