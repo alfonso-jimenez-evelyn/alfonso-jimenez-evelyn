@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div align="center">
-<img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/luffy-gif-10.gif" alt="Luffy Logo" width="150" height="150" />
+<img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/luffy-gif-10.gif" alt="Luffy Logo" width="640" height="360" />
 </div>
