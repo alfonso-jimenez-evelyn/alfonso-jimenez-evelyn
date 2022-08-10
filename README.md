@@ -9,6 +9,6 @@ Hi, my name is Alfonso and I'm Junior Blockchain developer. I enjoy learning abo
 </a>
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/luffy-gif-10.gif" alt="Luffy Logo" width="640" height="360" />
-</div>
+</div> -->
