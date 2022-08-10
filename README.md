@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<div align="center">
+<img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/luffy-gif-10.gif" alt="Luffy Logo" width="150" height="150" />
 </div>
-https://github.com/alfonsojimenez09/alfonsojimenez09.git -->
