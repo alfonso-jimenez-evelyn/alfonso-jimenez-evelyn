@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Alfonso
 
 Here are some ideas to get you started:
 
@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<!-- <div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+https://github.com/alfonsojimenez09/alfonsojimenez09.git -->
