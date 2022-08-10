@@ -25,5 +25,5 @@ Hi, my name is Alfonso and I'm Junior Blockchain developer. I enjoy learning abo
 <br />
 
 <div align="center">
-<img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/luffy-gif-10.gif" alt="Luffy Logo" width="600" height="320" />
+<img src="https://github.com/alfonsojimenez09/alfonsojimenez09/blob/main/mob-100.gif" alt="Mob Logo" width="500" height="278" />
 </div>
