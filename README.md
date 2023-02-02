@@ -2,7 +2,7 @@
 
 Hi, my name is Alfonso and I'm Junior developer. I enjoy learning about web3 and web design. 
 
-- 🌱 I’m currently learning AWS Services, Rust language, dApps and DAOs design.
+- 🌱 I’m currently learning Azure Services and ASP Net Core applications.
 - 🤔 I’m looking for participate in any website projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsojimenez09&count_private=true)
