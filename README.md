@@ -1,12 +1,11 @@
 <h1 align= "center"><b>Hi there 👋, Welcome...</b></h1>
 
-Hi, my name is Alfonso and I'm Junior developer. I enjoy learning about web3 and web design. 
+Hi, my name is Alfonso and I'm .NET developer. I enjoy learning about .NET applications and web design. 
 
-- 🌱 I’m currently learning Azure Services and ASP Net Core applications.
+- 🌱 I’m currently working in .NET applications, Azure and Umbraco CMS.
 - 🤔 I’m looking for participate in any website projects.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsojimenez09&count_private=true)
-
+![Anurag's GitHub stats](https://github-readme-stats-sigma-drab-39-alfonso.vercel.app/api?username=alfonso-jimenez-evelyn)
 
 <h3 align="left">Languages and Tools:</h3>
 
